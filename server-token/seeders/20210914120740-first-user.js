@@ -7,8 +7,8 @@ module.exports = {
         userId: 'hanamon',
         password: '1234',
         email: 'hanamon@co.kr',
-        createAt: new Date(),
-        updateAt: new Date()
+        createdAt: new Date(),
+        updatedAt: new Date()
       }
     ]);
   },
